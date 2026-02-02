@@ -11,7 +11,7 @@
   ✅ <a href="https://docs.google.com/spreadsheets/d/1QM6_KYOO-wohI8SvddatTytSA0Yf9G_xnyf0qenoHTs/edit?usp=sharing"> <strong> Чек-лист </strong> </a> для тестирования 
   функциональности, производительности, удобства использования (usability) и UI
    
-  🧪  <a href=""> <strong>Тест-кейсы</strong> </a> созданные в <strong>QASE</strong>, для проверки функциональности, 
+  🧪  <a href="https://drive.google.com/file/d/1t5DQPQgQ2Sps4Z5a9lJgeFPSNMj4R7U8/view?usp=sharing"> <strong>Тест-кейсы</strong> </a> созданные в <strong>QASE</strong>, для проверки функциональности, 
   производительности, usability и UI
   
   🐞 <a href=""> <strong>Пример баг-репорта<strong> </a> с <strong>видео воспроизведением дефекта</strong> и <strong>логами<strong>
