@@ -1,7 +1,7 @@
   <h1>📱Мобильное тестирование</h1>
 
   <p>
-    Я протестировал <a href="https://drive.google.com/file/d/13hBldnzpglC9DcXetc4Fm1plJ4u8VNQx/view?usp=sharing">  </a> <strong>Android-приложение</strong>. <br>
+    Я протестировал <a href="https://drive.google.com/file/d/13hBldnzpglC9DcXetc4Fm1plJ4u8VNQx/view?usp=sharing"> <strong>Android-приложение</strong>.</a><br>
     В процессе тестирования использовались как <strong>реальное устройство</strong>, так и
     <strong>эмулятор Android (Android Studio)</strong>.
   </p>
