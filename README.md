@@ -14,7 +14,7 @@
   🧪  <a href="https://drive.google.com/file/d/1t5DQPQgQ2Sps4Z5a9lJgeFPSNMj4R7U8/view?usp=sharing"> <strong>Тест-кейсы</strong> </a> созданные в <strong>QASE</strong>, для проверки функциональности, 
   производительности, usability и UI
   
-  🐞 <a href=""> <strong>Пример баг-репорта<strong> </a> с <strong>видео воспроизведением дефекта</strong> и <strong>логами<strong>
+  🐞 <a href="https://drive.google.com/drive/folders/14fx27fDFJ57DPCmOWPh4y4shjRE9uJg5?usp=sharing"> <strong>Пример баг-репорта<strong> </a> с <strong>видео воспроизведением дефекта</strong> и <strong>логами<strong>
   
   📊 <a href=""> <strong>Итоговый тестовый отчёт (Test Summary Report)</strong> </a>
   включающий <strong>метрики</strong> и <strong>графический анализ результатов тестирования</strong>
