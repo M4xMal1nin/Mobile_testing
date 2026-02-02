@@ -1,4 +1,4 @@
-  <h1>📱Mobile Testing</h1>
+  <h1>📱Мобильное тестирование</h1>
 
   <p>
     Я протестировал <a href="https://drive.google.com/file/d/13hBldnzpglC9DcXetc4Fm1plJ4u8VNQx/view?usp=sharing">  </a> <strong>Android-приложение</strong>. <br>
